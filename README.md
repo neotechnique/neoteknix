@@ -4,7 +4,7 @@ Distribution NixOS pour **Néotechnique**.
 Nix est un outil prenant une approche unique à la gestion de **paquets** et à la configuration système.
 Les paquets (ou packages) sont des logiciels "empaquetés" et prêts à l'emploi.
 
-NixOS est une distribution linux **déclarative**, c'est-à-dire que la configuration du système et les paquets installés sont décrits dans **un unique fichier** : nixos.conf
+NixOS est une distribution linux **déclarative**, c'est-à-dire que la configuration du système et les paquets installés sont décrits dans **un unique fichier** : configuration.nix
 # Installation
 ## Sur MacOS :
 Consulter le lien :
