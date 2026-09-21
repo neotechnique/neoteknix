@@ -38,3 +38,12 @@ Une fois l'écriture terminée, vous pouvez redémarrer votre ordinateur et entr
 Suivre les instructions d'installation, voir : https://nixos.org/manual/nixos/stable/#sec-installation
 
 Votre système Linux est prêt à l'emploi !
+
+## Mise à jour
+
+Exécutez le script suivant pour cloner ou mettre à jour le dépôt dans
+`~/neoteknix`, installer `configuration.nix`, puis appliquer la configuration :
+
+```sh
+./update.sh
+```
