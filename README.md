@@ -34,6 +34,7 @@ Une fois l'écriture terminée, vous pouvez redémarrer votre ordinateur et entr
 
 | **UEFI: SanDisk**, **UEFI: Kingston DataTraveler**… | Votre clé USB, en mode UEFI | **Oui**, c'est la bonne entrée pour installer NixOs |
 | --------------------------------------------------- | --------------------------- | --------------------------------------------------- |
+
 Suivre les instructions d'installation, voir : https://nixos.org/manual/nixos/stable/#sec-installation
 
 Votre système Linux est prêt à l'emploi !
