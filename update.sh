@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 set -euo pipefail
@@ -16,7 +15,7 @@ else
 fi
 
 REPOSITORY_URL="https://github.com/neotechnique/neotechnique.git"
-REPOSITORY_DIR="${HOME}/neoteknique"
+REPOSITORY_DIR="${HOME}/neotechnique"
 
 if [[ -d "${REPOSITORY_DIR}/.git" ]]; then
   git -C "${REPOSITORY_DIR}" pull --ff-only
